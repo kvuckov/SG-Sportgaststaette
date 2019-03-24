@@ -1,0 +1,14 @@
+{
+  "name": "sg",
+  "version": "1.0.0",
+  "description": "Web page for sg",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Klara",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
